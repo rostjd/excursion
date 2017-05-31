@@ -1,0 +1,23 @@
+
+body{
+  background-color: black;
+  text-align: center;
+  font-family: Verdana
+}
+.title{
+  font-weight: normal;
+  color: white;
+  font-size: 50px;
+  text-align: center;
+}
+#download{
+  text-align: center;
+  color: acquamarine;
+  font-size: 16px;
+#video{
+  align-items: center;
+}
+#footer{
+  text-align: right;
+  color: white;
+}
